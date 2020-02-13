@@ -1,0 +1,6 @@
+framework module Pods_assignment4Tests {
+  umbrella header "Pods-assignment4Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
